@@ -1,2 +1,4 @@
 
 This is a introductory notes for this project
+
+Created for learning git
